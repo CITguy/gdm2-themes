@@ -1,0 +1,29 @@
+# "Ebb" xfwm theme by Ryan Johnson
+# December 21, 2008
+# Version 0.2.0
+
+active_text_color=#FFFFFF
+button_offset=-3
+button_spacing=3
+
+button_layout=OST|HMC
+
+## Use with Title Shadows
+title_shadow_active=true
+title_shadow_inactive=true
+
+shadow_delta_height=4
+shadow_delta_width=2
+shadow_delta_x=4
+shadow_delta_y=4
+
+full_width_title=true
+
+
+inactive_text_color=#FFFFFF
+maximized_offset=3
+show_app_icon=false
+
+title_horizontal_offset=0
+title_vertical_offset_active=-3
+title_vertical_offset_inactive=-3
