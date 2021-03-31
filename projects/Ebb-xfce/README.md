@@ -24,3 +24,7 @@ View the [project wiki](https://github.com/CITguy/legacy-linux-customizations/wi
 
 ## Notes
 (2021-03-31): Converted XAR to SVG, but broke "highlight" due to XAR transparency and lack of support in Xara Xtreme to export using SVG filters.
+
+
+## LICENSE
+Copyright (C) 2009 Ryan Johnson

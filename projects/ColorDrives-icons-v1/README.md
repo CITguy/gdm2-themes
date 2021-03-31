@@ -1,4 +1,4 @@
-# ColorDrives Icons (v1)
+# ![ColorDrives Icons (v1)](./preview.png)
 
 Twelve isometric, hard-disk drive icons in 7 colors.
 
@@ -15,4 +15,6 @@ Twelve isometric, hard-disk drive icons in 7 colors.
 * `SSH`
 * `USB`
 
-![preview image](./preview.png)
+
+## LICENSE
+Copyright (C) 2007 Ryan Johnson
