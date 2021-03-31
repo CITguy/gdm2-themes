@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.5.0.22-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="600pt" height="450pt" viewBox="0 -450 600 450">
+ <defs>
+  <radialGradient id="RadialGradient" gradientUnits="userSpaceOnUse" cx="55.835" cy="361.769" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -316.583 86.436)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_1" gradientUnits="userSpaceOnUse" cx="233.768" cy="361.769" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -316.583 264.369)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_2" gradientUnits="userSpaceOnUse" cx="54.835" cy="182.77" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -137.584 85.436)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_3" gradientUnits="userSpaceOnUse" cx="232.768" cy="182.77" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -137.584 263.369)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_4" gradientUnits="userSpaceOnUse" cx="404.572" cy="182.77" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -137.584 435.173)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_5" gradientUnits="userSpaceOnUse" cx="405.572" cy="361.769" r="97.3552515738108" gradientTransform="matrix(0 -1 1 0 -316.583 436.173)">
+   <stop offset="0" stop-color="#cbcbcb"/>
+   <stop offset="1" stop-color="#000000"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="Group">
+   <ellipse cx="86.436" cy="316.583" rx="77.28" ry="77.28" fill="#b2b2b2" stroke-width="4" stroke="#000000" stroke-linejoin="miter"/>
+   <mask id="TranspMask">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(86.436 316.583) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" stroke-linejoin="miter" mask="url(#TranspMask)"/>
+   <g id="Group_1" fill-rule="nonzero" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" stroke-width="3.731" fill="#ffffff">
+    <g id="Group_2">
+     <g id="Group_3">
+      <path d="M 98.657,316.89 L 125.714,358.09 L 99.887,358.09 L 86.513,333.033 L 72.984,358.09 L 47.158,358.09 L 74.214,316.89 L 46.543,275.076 L 72.369,275.076 L 86.513,300.902 L 100.502,275.076 L 126.329,275.076 L 98.657,316.89 Z" marker-start="none" marker-end="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="Group_4">
+   <ellipse cx="264.369" cy="316.583" rx="77.28" ry="77.28" fill="#0000ff" stroke-width="4" stroke="#000000" stroke-linejoin="miter"/>
+   <mask id="TranspMask_1">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient_1)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(264.369 316.583) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" stroke-linejoin="miter" mask="url(#TranspMask_1)"/>
+   <g id="Group_5" fill-rule="nonzero" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" stroke-width="3.731" fill="#ffffff">
+    <g id="Group_6">
+     <g id="Group_7">
+      <path d="M 276.59,316.89 L 303.647,358.09 L 277.82,358.09 L 264.446,333.033 L 250.917,358.09 L 225.091,358.09 L 252.147,316.89 L 224.476,275.076 L 250.302,275.076 L 264.446,300.902 L 278.435,275.076 L 304.262,275.076 L 276.59,316.89 Z" marker-start="none" marker-end="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="Group_8" stroke-linejoin="miter">
+   <ellipse cx="85.436" cy="137.584" rx="77.28" ry="77.28" fill="#b2b2b2" stroke-width="4" stroke="#000000"/>
+   <mask id="TranspMask_2">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient_2)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(85.436 137.584) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" mask="url(#TranspMask_2)"/>
+   <path d="M 113.211,94.41 L 107.907,125.339 L 130.378,147.243 L 99.323,151.756 L 85.436,179.895 L 71.548,151.756 L 40.493,147.243 L 62.964,125.339 L 57.66,94.41 L 85.435,109.013 L 113.211,94.41 Z" fill="#ffffff" stroke-width="4" stroke="#000000" marker-start="none" marker-end="none"/>
+  </g>
+  <g id="Group_9" stroke-linejoin="miter">
+   <ellipse cx="263.369" cy="137.584" rx="77.28" ry="77.28" fill="#ffff00" stroke-width="4" stroke="#000000"/>
+   <mask id="TranspMask_3">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient_3)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(263.369 137.584) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" mask="url(#TranspMask_3)"/>
+   <path d="M 291.145,94.41 L 285.841,125.339 L 308.312,147.243 L 277.257,151.756 L 263.37,179.895 L 249.482,151.756 L 218.427,147.243 L 240.898,125.339 L 235.594,94.41 L 263.369,109.013 L 291.145,94.41 Z" fill="#ffffff" stroke-width="4" stroke="#000000" marker-start="none" marker-end="none"/>
+  </g>
+  <g id="Group_10" stroke-linejoin="miter">
+   <ellipse cx="435.173" cy="137.584" rx="77.28" ry="77.28" fill="#ff00bf" stroke-width="4" stroke="#000000"/>
+   <mask id="TranspMask_4">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient_4)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(435.173 137.584) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" mask="url(#TranspMask_4)"/>
+   <path d="M 462.948,94.41 L 457.644,125.339 L 480.115,147.243 L 449.06,151.756 L 435.173,179.895 L 421.285,151.756 L 390.23,147.243 L 412.701,125.339 L 407.397,94.41 L 435.172,109.013 L 462.948,94.41 Z" fill="#ffffff" stroke-width="4" stroke="#000000" marker-start="none" marker-end="none"/>
+  </g>
+  <g id="Group_11">
+   <ellipse cx="436.173" cy="316.583" rx="77.28" ry="77.28" stroke-width="4" fill="#ff0000" stroke="#000000" stroke-linejoin="miter"/>
+   <mask id="TranspMask_5">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#RadialGradient_5)" stroke="none"/>
+   </mask>
+   <ellipse rx="75.028" ry="75.028" transform="translate(436.173 316.583) rotate(90)" stroke="none" fill="#ffffff" stroke-width="3.881" stroke-linejoin="miter" mask="url(#TranspMask_5)"/>
+   <g id="Group_12" fill-rule="nonzero" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" stroke-width="3.731" fill="#ffffff">
+    <g id="Group_13">
+     <g id="Group_14">
+      <path d="M 448.394,316.89 L 475.451,358.09 L 449.624,358.09 L 436.25,333.033 L 422.721,358.09 L 396.895,358.09 L 423.951,316.89 L 396.28,275.076 L 422.106,275.076 L 436.25,300.902 L 450.239,275.076 L 476.066,275.076 L 448.394,316.89 Z" marker-start="none" marker-end="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
