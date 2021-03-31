@@ -15,3 +15,7 @@ View the [project wiki](https://github.com/CITguy/legacy-linux-customizations/wi
 **Coda with "redmondxp" GTK Theme**
 
 ![Coda w/ redmondxp](./screenshots/Coda_Xfce-redmondxp.png)
+
+
+## LICENSE
+Copyright (C) 2008 Ryan Johnson
