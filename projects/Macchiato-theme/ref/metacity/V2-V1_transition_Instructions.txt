@@ -1,0 +1,8 @@
+It is easier to work from Version 2 backward. However, not all features can be 
+used in Version 1 files. The following is the list of instructions to convert
+the Version 2 file to a Version 1 file.
+
+0. Overwrite Version 1 file contents with Version 2 file contents.
+1. Remove/exchange Version 2 constants
+  a. Exchange all "ActiveColor" and "InactiveColor" constants with hard-coded values.
+2. Comment out/Remove all Version 2 Buttons in the frame_style sections.
