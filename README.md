@@ -42,6 +42,6 @@ or Linux versions available).
 ## LICENSE
 All customizations are licensed under the GPLv3 license.
 
-Reference artwork has been included for reference, where access to the original
+Some artwork has been included for reference where access to the original
 work is no longer available, but all rights to these works still belong to their
 original creators.
