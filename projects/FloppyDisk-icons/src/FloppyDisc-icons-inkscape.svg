@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="FloppyDisc-icons.ink.svg"
+   id="svg415"
+   viewBox="12.48 -510.3 392.6 326.7"
+   height="326.7pt"
+   width="392.6pt"
+   overflow="visible"
+   version="1.1"
+   style="font-variant-ligatures:none"
+   font-size="16px"
+   font-family="'Times New Roman'"
+   stroke-miterlimit="10"
+   stroke-linejoin="bevel"
+   stroke-width="0.501"
+   stroke="#000000"
+   fill-rule="evenodd"
+   fill="none">
+  <metadata
+     id="metadata419">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview417"
+     showgrid="false"
+     inkscape:zoom="0.4661"
+     inkscape:cx="88.06"
+     inkscape:cy="207.3"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-others="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid421"
+       originx="135.9"
+       originy="-2069" />
+  </sodipodi:namedview>
+  <defs
+     id="defs40">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2032">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2022" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite2024" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2026" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2028" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2030" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2106">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2096" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2098" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2100" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2102" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2104" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2120">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2110" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2112" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2114" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2116" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2118" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2134">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2124" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2126" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2128" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2130" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2132" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2156">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2146" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2148" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2150" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2152" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2154" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2168">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2158" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2160" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2162" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2164" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2166" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2180">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2170" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2172" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2174" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2176" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2178" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2192">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2182" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2184" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2186" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2188" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2190" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2204">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2194" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2196" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur2198" />
+      <feOffset
+         dx="-6.38378e-16"
+         dy="4"
+         result="offset"
+         id="feOffset2200" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2202" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Templates"
+     style="display:inline"
+     transform="translate(-403,-211.2)">
+    <g
+       id="g1087"
+       inkscape:label="{Disk}"
+       transform="matrix(0.9998,0,0,-0.9998,-711.6,49.99)"
+       style="font-variant-ligatures:none;display:inline">
+      <path
+         d="m 450.5,325.4 -0.2,-2.5 3.7,1.2 z"
+         stroke-width="0.235"
+         stroke="#000000"
+         fill="#999999"
+         marker-start="none"
+         marker-end="none"
+         id="path398"
+         inkscape:label="slider edge" />
+      <path
+         d="m 461.3,266.8 -0.7,1.8 -3.6,-0.9 -0.7,1.7 4.8,1.2 1.3,-3.5 z"
+         stroke-width="0.235"
+         fill="#333333"
+         stroke="#191919"
+         marker-start="none"
+         marker-end="none"
+         id="path400"
+         inkscape:label="casing back" />
+      <path
+         d="m 458.6,259.5 c -0.7,0 -1.2,0.3 -1.5,1 l -20.8,57.1 -0.1,1.1 2.7,3.8 2.6,0.6 0.5,-0.2 6.1,1.5 1.4,-0.6 1.3,0.3 41.3,10.7 c 0.4,0 1.3,0 1.6,-0.4 0.6,0.2 1.1,0.3 1.7,0.6 0.3,0.3 0.4,0.6 0.4,1 l 3.9,0.9 c 0.8,0.2 1.9,0.4 2.6,-0.7 l 29.5,-53 c 0.4,-1.5 -0.1,-2.5 -1.3,-3 l -4.9,-1.4 -0.4,0.2 -60.1,-17.5 -0.2,-0.4 -5.6,-1.5 c -0.2,-0.1 -0.5,-0.1 -0.7,-0.1 z m -0.7,6.8 1.3,0.4 1.9,0.5 v 0 l 0.7,0.2 -1,2.6 -3.9,-1 z"
+         fill="#000000"
+         stroke-width="0.235"
+         stroke="#000000"
+         marker-start="none"
+         marker-end="none"
+         id="path402"
+         style="display:inline;stroke:none;stroke-width:0.2348;stroke-miterlimit:10;stroke-dasharray:none"
+         inkscape:label="casing front" />
+      <path
+         d="m 524.8,285.3 3.5,1.1 -1.4,2.4 -3.6,-0.9 z"
+         fill="#333333"
+         stroke="#191919"
+         stroke-width="0.235"
+         marker-start="none"
+         marker-end="none"
+         id="path411"
+         inkscape:label="switch" />
+      <path
+         d="m 459.3,307.7 c -0.8,0 -1.4,0.5 -1.8,1.2 l -7,16.5 35.5,8.6 8.1,-15.5 c 0.4,-1.1 0.1,-1.9 -1.1,-2.2 l -32.8,-8.5 c -0.3,-0.1 -0.6,-0.1 -0.9,-0.1 z m 4.3,2.5 9.2,2.4 -6.5,14.1 -8.9,-2.4 z"
+         stroke-width="0.235"
+         stroke="#000000"
+         fill="#b2b2b2"
+         marker-start="none"
+         marker-end="none"
+         id="path404"
+         inkscape:label="slider front"
+         style="display:inline" />
+    </g>
+    <g
+       id="g1145"
+       transform="matrix(0.9998,0,0,-0.9998,-224.3,251.6)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Blue}">
+      <clipPath
+         id="clipPath1139">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1137" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1141"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1143"
+         style="fill:#0080ff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1135"
+       transform="matrix(0.9998,0,0,-0.9998,-344,251.6)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Pink}">
+      <clipPath
+         id="clipPath1129">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1127" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1131"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1133"
+         style="fill:#ff00bf;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1125"
+       transform="matrix(0.9998,0,0,-0.9998,-463.7,251.6)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Lime}">
+      <clipPath
+         id="clipPath1119">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1117" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1121"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1123"
+         style="fill:#40ff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1115"
+       transform="matrix(0.9998,0,0,-0.9998,-224.3,150.1)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Yellow}">
+      <clipPath
+         id="clipPath1109">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1107" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1111"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1113"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1105"
+       transform="matrix(0.9998,0,0,-0.9998,-344,150.1)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Orange}">
+      <clipPath
+         id="clipPath1099">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1097" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1101"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1103"
+         style="fill:#ff8000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1095"
+       transform="matrix(0.9998,0,0,-0.9998,-463.7,150.1)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Red}">
+      <clipPath
+         id="clipPath1089">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1087" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1091"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1093"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1085"
+       transform="matrix(0.9998,0,0,-0.9998,-224.3,48.48)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/White}">
+      <clipPath
+         id="clipPath1079">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1077" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1081"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1083"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="g1075"
+       transform="matrix(0.9998,0,0,-0.9998,-344,48.48)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Gray}">
+      <clipPath
+         id="clipPath1069">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="path1067" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1071"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path1073"
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+    <g
+       id="prototype"
+       transform="matrix(0.9998,0,0,-0.9998,-463.7,48.48)"
+       style="font-variant-ligatures:none;display:inline"
+       inkscape:label="{Disk/Black}">
+      <clipPath
+         id="clip-path">
+        <path
+           d="M 882.3,510.3 H 659.2 V 322.5 h 223.1 z"
+           stroke="none"
+           stroke-linejoin="miter"
+           stroke-width="0"
+           marker-start="none"
+           marker-end="none"
+           fill="none"
+           id="use390" />
+      </clipPath>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1087"
+         id="use1089"
+         width="100%"
+         height="100%"
+         style="display:inline"
+         transform="matrix(1,0,0,-1,711.6,49.99)"
+         inkscape:label="@Disk" />
+      <path
+         d="m 465.1,261.5 c 0.1,0.4 0,0.8 -0.1,1.1 l -13.8,37.3 c -0.2,0.7 -0.1,1.1 0.4,1.2 l 53.7,13.9 c 1,0.2 1.7,0 2.2,-0.8 l 17.8,-33 c 0.4,-0.8 0.3,-1.6 -0.1,-2.2 z"
+         stroke-width="0.96"
+         marker-start="none"
+         marker-end="none"
+         id="path406"
+         style="fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Label" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Icons"
+     transform="translate(-67.94,-1140)"
+     style="display:inline">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#prototype"
+       id="use1156"
+       width="100%"
+       height="100%"
+       transform="translate(117.7,1160)"
+       inkscape:label="Black"
+       style="filter:url(#filter2032)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1075"
+       id="use2034"
+       width="100%"
+       height="100%"
+       transform="translate(136.9,1160)"
+       inkscape:label="Gray"
+       style="filter:url(#filter2106)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1085"
+       id="use2108"
+       width="100%"
+       height="100%"
+       transform="translate(156,1160)"
+       style="filter:url(#filter2120)"
+       inkscape:label="White" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1095"
+       id="use2122"
+       width="100%"
+       height="100%"
+       transform="translate(117.7,941.5)"
+       inkscape:label="Red"
+       style="filter:url(#filter2134)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1105"
+       id="use2136"
+       width="100%"
+       height="100%"
+       transform="translate(136.8,941.5)"
+       inkscape:label="Orange"
+       style="filter:url(#filter2168)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1115"
+       id="use2138"
+       width="100%"
+       height="100%"
+       transform="translate(155.9,941.5)"
+       inkscape:label="Yellow"
+       style="filter:url(#filter2180)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1125"
+       id="use2140"
+       width="100%"
+       height="100%"
+       transform="translate(117.7,723)"
+       inkscape:label="Lime"
+       style="filter:url(#filter2192)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1135"
+       id="use2142"
+       width="100%"
+       height="100%"
+       transform="translate(136.9,723)"
+       inkscape:label="Pink"
+       style="filter:url(#filter2204)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1145"
+       id="use2144"
+       width="100%"
+       height="100%"
+       transform="translate(156,723)"
+       inkscape:label="Blue"
+       style="filter:url(#filter2156)" />
+  </g>
+</svg>
