@@ -1,0 +1,13 @@
+GIMP Palette
+Name: Floppy Disk Icons
+Columns: 1
+#
+255   0   0	Red (#ff0000)
+255 128   0	Orange (#ff8000)
+255 255   0	Yellow (#ffff00)
+ 64 255   0	Lime (#40ff00)
+  0 128 255	Blue (#0080ff)
+255   0 192	Pink (#ff00c0)
+  0   0   0	Black (#000000)
+204 204 204	Gray (#cccccc)
+255 255 255	White (#ffffff)
